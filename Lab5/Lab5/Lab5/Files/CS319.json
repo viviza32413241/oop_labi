@@ -1,0 +1,29 @@
+[
+  {
+    "LastName": "Якийсь",
+    "FirstName": "Студент",
+    "ExamScore": 12,
+    "Module1Score": 12,
+    "Module2Score": 12,
+    "SemesterGrade": 12,
+    "Result": "Добре"
+  },
+  {
+    "LastName": "Супер",
+    "FirstName": "Студент",
+    "ExamScore": 100,
+    "Module1Score": 80,
+    "Module2Score": 80,
+    "SemesterGrade": 80,
+    "Result": "Добре"
+  },
+  {
+    "LastName": "Крутиха",
+    "FirstName": "Студент",
+    "ExamScore": 81,
+    "Module1Score": 81,
+    "Module2Score": 81,
+    "SemesterGrade": 81,
+    "Result": "Добре"
+  }
+]

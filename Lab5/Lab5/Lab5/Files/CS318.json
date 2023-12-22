@@ -1,0 +1,11 @@
+[
+  {
+    "LastName": "Якийсь",
+    "FirstName": "Студент",
+    "ExamScore": 12,
+    "Module1Score": 12,
+    "Module2Score": 12,
+    "SemesterGrade": 12,
+    "Result": "Добре"
+  }
+]

@@ -1,0 +1,11 @@
+D:\College\LABS\Lab1\Lab1_3\Lab1_3\Lab1_3\bin\Debug\Lab1_3.exe.config
+D:\College\LABS\Lab1\Lab1_3\Lab1_3\Lab1_3\bin\Debug\Lab1_3.exe
+D:\College\LABS\Lab1\Lab1_3\Lab1_3\Lab1_3\bin\Debug\Lab1_3.pdb
+D:\College\LABS\Lab1\Lab1_3\Lab1_3\Lab1_3\obj\Debug\Lab1_3.csproj.AssemblyReference.cache
+D:\College\LABS\Lab1\Lab1_3\Lab1_3\Lab1_3\obj\Debug\Lab1_3.csproj.SuggestedBindingRedirects.cache
+D:\College\LABS\Lab1\Lab1_3\Lab1_3\Lab1_3\obj\Debug\Lab1_3.Form1.resources
+D:\College\LABS\Lab1\Lab1_3\Lab1_3\Lab1_3\obj\Debug\Lab1_3.Properties.Resources.resources
+D:\College\LABS\Lab1\Lab1_3\Lab1_3\Lab1_3\obj\Debug\Lab1_3.csproj.GenerateResource.cache
+D:\College\LABS\Lab1\Lab1_3\Lab1_3\Lab1_3\obj\Debug\Lab1_3.csproj.CoreCompileInputs.cache
+D:\College\LABS\Lab1\Lab1_3\Lab1_3\Lab1_3\obj\Debug\Lab1_3.exe
+D:\College\LABS\Lab1\Lab1_3\Lab1_3\Lab1_3\obj\Debug\Lab1_3.pdb
